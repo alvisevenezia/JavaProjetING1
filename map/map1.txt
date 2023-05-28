@@ -1,0 +1,4 @@
+3;3;map1;https://t2.ea.ltmcdn.com/fr/posts/9/9/1/le_canard_comme_animal_de_compagnie_2199_600_square.jpg;2;1
+1;1;1;
+1;0;1;
+1;1;1;

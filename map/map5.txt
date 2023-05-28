@@ -1,0 +1,6 @@
+5;5;map5;https://parlonssciences.ca/sites/default/files/2020-02/telescope-boy-night.jpg;2;1
+1;w;1;1;w;
+1;0;1;w;1;
+1;1;1;1;1;
+w;1;1;1;1;
+1;1;1;1;1;

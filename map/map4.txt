@@ -1,0 +1,6 @@
+5;5;map4;https://www.webstickersmuraux.com/fr/img/fom201-jpg/folder/products-listado-merchant/poster-xxl-avion-en-piste.jpg;2;1
+w;1;1;1;w;
+1;1;1;1;1;
+1;w;0;1;1;
+1;1;1;1;1;
+w;1;1;1;w;
