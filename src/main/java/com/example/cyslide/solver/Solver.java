@@ -76,8 +76,6 @@ public class Solver {
 
                     currentNode.generateChildren();
 
-                    System.out.println("Current node: " + nonVisitedNodes.size());
-
                     for (Node node : currentNode.getChildren()) {
 
                         if (!existingNodes.contains(node.getState())) {

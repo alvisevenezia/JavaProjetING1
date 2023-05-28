@@ -1,5 +1,6 @@
 package com.example.cyslide.map;
 
+import javafx.scene.control.Alert;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.image.PixelReader;
@@ -72,6 +73,16 @@ public class MapLoader {
         for(int y = 0; y < rows; y++){
             for(int x = 0; x < column; x++){
                 PixelReader reader = image.getPixelReader();
+
+                if(reader == null){
+                    Alert alert = new Alert(Alert.AlertType.ERROR);
+                    alert.setTitle("Error");
+                    alert.setHeaderText("Error");
+                    alert.setContentText("Image not found!");
+                    alert.showAndWait();
+                    return null;
+                }
+
                 WritableImage subImage = new WritableImage(reader, x * width, y * height, width, height);
                 subImageList.add(subImage);
             }
