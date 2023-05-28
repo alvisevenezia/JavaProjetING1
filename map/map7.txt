@@ -1,0 +1,9 @@
+6;8;map7;https://upload.wikimedia.org/wikipedia/commons/4/4f/Gallet_clamshell_600x600_2.jpg;150000000;0
+1;1;w;1;w;w;
+w;1;1;1;1;w;
+w;1;w;1;1;1;
+w;1;1;1;1;1;
+1;1;1;1;1;1;
+1;1;0;1;w;w;
+w;1;1;1;1;1;
+w;w;1;1;1;1;
